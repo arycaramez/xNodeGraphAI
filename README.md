@@ -1,5 +1,5 @@
 # xNode Graph AI
-A visual Behaviour Tree created to build an customizable AI for Unity.
+A visual Behaviour Tree created to build a customizable AI for Unity.
 
 ![Untitled](https://github.com/arycaramez/xNodeGraphAI/assets/37397920/7505662b-7977-4f29-ab61-09555b302ad8)
 
