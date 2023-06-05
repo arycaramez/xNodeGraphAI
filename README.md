@@ -1,7 +1,7 @@
 # xNode Graph AI
 * A visual Behaviour Tree created to build a customizable AI for Unity.
 
-__I will soon provide a game demo for anyone interested, it will be available here on GitHub to play in WebGL.__
+__I will soon provide a game demo, it will be available on GitHub to play in WebGL.__
 
 ![Untitled](https://github.com/arycaramez/xNodeGraphAI/assets/37397920/7505662b-7977-4f29-ab61-09555b302ad8)
   
