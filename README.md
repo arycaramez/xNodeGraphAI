@@ -1,6 +1,8 @@
 # xNode Graph AI
 * A visual Behaviour Tree created to build a customizable AI for Unity.
 
+__I will soon provide a game demo for anyone interested, it will be available here on GitHub to play in WebGL.__
+
 ![Untitled](https://github.com/arycaramez/xNodeGraphAI/assets/37397920/7505662b-7977-4f29-ab61-09555b302ad8)
   
 Is an AI project designed for games in the Unity Engine. Its main purpose is to create a graphical representation of a Behavior Tree using the 'xNode' asset. This tool allows developers to quickly build AI systems by visually creating a tree-like structure of states. With xNode Graph AI, developers can easily create and customize logical structures and behaviors, enabling them to recompose scripts to create a wide variety of distinct AI behaviors.
