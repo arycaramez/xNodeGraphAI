@@ -18,5 +18,8 @@ Initialy this project was created for 2D games but you can use it in 3D games, t
 ## You can buy and download this asset in the link below: ##
 * https://arycaramez.itch.io/xnode-graph-ai-unity-package
 
+## Playable Demo: ##
+* https://arycaramez.github.io/xNodeGraphAI_playable/
+
 ## Documentation Link:
 * https://freckle-basement-7f1.notion.site/xNode-Graph-AI-Documentation-b407219b08cb411ea36412e2f7f133d0
